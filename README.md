@@ -26,7 +26,7 @@ The dataset includes employee-level information such as:
 - Average Years at Company  
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/1.png)
+![Dashboard Overview](Screenshots/1.png)
 
 
 ## Tools & Technologies
