@@ -25,6 +25,10 @@ The dataset includes employee-level information such as:
 - Average Monthly Income  
 - Average Years at Company  
 
+### Dashboard Overview
+![Dashboard Overview](screenshots/1.png)
+
+
 ## Tools & Technologies
 - Power BI  
 - DAX  
